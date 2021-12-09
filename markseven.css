@@ -1,9 +1,11 @@
 .lister{
     height: 80px;
     text-align: center;
-    background-color: rgb(133, 93, 245);
+    /* background-color: rgb(133, 93, 245); */
     padding-top: 30px;
     border-radius: 20px 20px 20px 20px;
+    color: rgb(14, 13, 13);
+    padding-bottom: 1%;
 }
 .list{
     height: 120px;
@@ -17,15 +19,19 @@
 .host{
     height:50px;
     width: 20%;
-    color: rgb(14, 13, 13);
     margin-left: 10%;
     padding-top: 5px;
-    background-color: rgb(133, 93, 245);
-    /* border-radius: 60px 60px 60px 60px; */
 } 
 .jink{
     color: black;
     margin-left: 10%;
     padding-top: 30px;
+
+}
+.background{
+    background-image: url('0WQKIe.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 10;    
 
 }
